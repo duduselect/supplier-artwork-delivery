@@ -1,0 +1,5 @@
+interface:
+  display_name: "Supplier Artwork Delivery"
+  short_description: "Prepare production artwork for supplier handoff."
+  default_prompt: "Use $supplier-artwork-delivery to inspect approved artwork and build a supplier-ready delivery candidate with a manifest and QA report."
+
